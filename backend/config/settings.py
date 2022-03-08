@@ -35,7 +35,7 @@ for key, value in secrets.items():
 DEBUG = True
 
 
-ALLOWED_HOSTS = ['0.0.0.0','localhost','elice-kdt-ai-3rd-team12.koreacentral.cloudapp.azure.com']
+ALLOWED_HOSTS = ['0.0.0.0','localhost','elice-kdt-ai-3rd-team12.koreacentral.cloudapp.azure.com','127.0.0.1']
 
 
 MEDIA_URL = '/media/'
@@ -56,7 +56,7 @@ DJANGO_APPS = [
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
-    'django.contrib.staticfiles',
+    #'django.contrib.staticfiles',
     'django.contrib.sites',
 
 ]
@@ -84,6 +84,7 @@ LOCAL_APPS = [
     'apps.social_login',
     'apps.user',
     'apps.plant',
+    'apps.plant_survey',
 
     
 ]

@@ -1,9 +1,7 @@
 # 푸르댕댕🍀
 <strong> 플랜테리어, 반려식물에 관심을 갖는 사람들에게 식물을 찾아주고 식물의 정보를 제공해주는 서비스  </strong>
 <br/>
-<br/>
-<br/>
-<br/>
+
 ## 1. 기술스택
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
